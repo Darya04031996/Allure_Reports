@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static jdk.internal.misc.ThreadFlock.open;
 import static org.openqa.selenium.By.linkText;
 
 public class SelenideTest {
